@@ -1,0 +1,13 @@
+# Packages needed to run adaline-sgd.ipynb
+# Tested with Python 3.10 (mscs435 conda env)
+#
+# Install with:
+#   pip install -r requirements.txt
+
+pandas
+matplotlib
+torch
+
+# To execute the notebook itself
+jupyterlab
+ipykernel
